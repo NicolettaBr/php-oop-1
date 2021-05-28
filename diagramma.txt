@@ -1,0 +1,8 @@
+User
+
+name
+lastname
+nickname
+email
+age
+password
